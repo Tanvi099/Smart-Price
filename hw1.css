@@ -1,0 +1,80 @@
+#pic{
+	float: left;
+	
+}
+
+#logo{
+	text-align: center;
+	color: #000000;
+    background-color: 	#add8e6;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#quote{
+	text-align: center;
+	text-indent: 500px;
+	font-size: 15px;
+	font-style: italic bold;
+	font-family: serif;
+}
+a{
+	padding: 10px 90px 10px 50px;
+	margin-left: 100px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	border-radius: 15px 15px 15px 15px;
+	background-color: #add8e6;
+
+
+}
+
+
+
+
+.box{
+	width: 357px;
+  text-align: center;
+  display: inline-block;
+}
+#search_text {
+  width: 450px;
+  margin-top: 80px;
+  padding: 15px 60px 15px 20px;
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+  border-radius: 15px 15px 15px 15px;
+  height: 52px;
+  margin-left: 400px;
+  color: black;
+  
+  
+  
+  box-sizing: border-box;
+  transition: all 0.15s;
+}
+#searchButton{
+
+    width: 100px;
+    height: 52px;
+    border-radius: 15px 15px 15px 15px;
+    
+	margin-top: 80px ;
+}
+section{
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+#bg{
+	background-image: url('bg.png');
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+  .last{
+  	margin-top: 800px;
+  }
